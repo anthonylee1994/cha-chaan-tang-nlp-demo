@@ -1,0 +1,9 @@
+{
+  "id": "8f87c8ea-86a0-427e-ad02-9cb0bfbe96af",
+  "name": "DrinkTemperature",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

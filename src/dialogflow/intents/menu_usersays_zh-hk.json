@@ -1,0 +1,93 @@
+[
+  {
+    "id": "88730b34-22e6-409d-af07-dcc80268a268",
+    "data": [
+      {
+        "text": "有乜嘢食？",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "eabf000c-fc81-40e3-8f0b-9c29b75f9a1f",
+    "data": [
+      {
+        "text": "菜單",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "d37120a5-30f9-4631-890c-41f6dfaa2e5f",
+    "data": [
+      {
+        "text": "menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "c0512d16-85e7-4ddf-9bf4-a8bd3e20ba23",
+    "data": [
+      {
+        "text": "有冇MENU呀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "ae4e316c-de6c-4048-867b-a883f86c6151",
+    "data": [
+      {
+        "text": "畀個餐牌嚟呀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "f96cc302-b841-4291-bb71-7133a98c5c97",
+    "data": [
+      {
+        "text": "餐牌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "59e98f86-5d35-4402-9e7c-1d7f4d0fd101",
+    "data": [
+      {
+        "text": "有冇餐牌呀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  }
+]

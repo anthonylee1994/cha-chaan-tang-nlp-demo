@@ -1,0 +1,84 @@
+[
+  {
+    "id": "a18d31ab-6065-4888-8d71-52a2135650ad",
+    "data": [
+      {
+        "text": "pay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "734597b6-aa22-4cbf-a802-ca98afad578e",
+    "data": [
+      {
+        "text": "唔該，收",
+        "userDefined": false
+      },
+      {
+        "text": "錢",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "8c730f0f-aee0-4755-afe7-f000ab4b4e02",
+    "data": [
+      {
+        "text": "埋單",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "c7d600f1-3423-445d-922e-3ee725cabf21",
+    "data": [
+      {
+        "text": "唔該，埋單",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "6c4e7e2c-7a4f-4255-8f8a-e5da7a4ac7da",
+    "data": [
+      {
+        "text": "喂，埋單",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "8f87ad12-2138-478a-8fa5-9ba93c747d72",
+    "data": [
+      {
+        "text": "埋單呀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  }
+]

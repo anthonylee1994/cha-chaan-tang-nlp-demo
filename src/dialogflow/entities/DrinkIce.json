@@ -1,0 +1,9 @@
+{
+  "id": "524d98ff-998b-48db-b90c-8b96f0b33c4d",
+  "name": "DrinkIce",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

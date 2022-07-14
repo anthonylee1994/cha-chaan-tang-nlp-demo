@@ -1,0 +1,9 @@
+{
+  "id": "4b7dcef1-3401-43c7-a48f-c4d1624ccfb9",
+  "name": "DrinkSugar",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

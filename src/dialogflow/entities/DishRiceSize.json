@@ -1,0 +1,9 @@
+{
+  "id": "b49ac996-fbb9-41f3-b30d-3490a02208eb",
+  "name": "DishRiceSize",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

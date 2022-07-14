@@ -1,0 +1,475 @@
+[
+  {
+    "id": "54d483fc-9a2b-4a5d-b43c-b709636489fd",
+    "data": [
+      {
+        "text": "畀個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": true
+      },
+      {
+        "text": "少飯",
+        "meta": "@DishRiceSize",
+        "alias": "DishRiceSize",
+        "userDefined": true
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": false
+      },
+      {
+        "text": "啡",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": "少甜",
+        "meta": "@DrinkSugar",
+        "alias": "DrinkSugar",
+        "userDefined": false
+      },
+      {
+        "text": "少冰",
+        "meta": "@DrinkIce",
+        "alias": "DrinkIce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "d9f87cb8-7961-4a9a-ac71-0590daef7eaa",
+    "data": [
+      {
+        "text": "畀個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": false
+      },
+      {
+        "text": "啡",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": "少甜",
+        "meta": "@DrinkSugar",
+        "alias": "DrinkSugar",
+        "userDefined": false
+      },
+      {
+        "text": "少冰",
+        "meta": "@DrinkIce",
+        "alias": "DrinkIce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "0e64e076-e8ad-4252-8402-8ca63c337dd5",
+    "data": [
+      {
+        "text": "要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，飲",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": true
+      },
+      {
+        "text": "檸茶",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "100e00ab-887a-41e4-b457-de583fb1e7fd",
+    "data": [
+      {
+        "text": "我要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，飲",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": true
+      },
+      {
+        "text": "檸茶",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "ee976b2c-0619-423b-86f1-ee3b0618a49a",
+    "data": [
+      {
+        "text": "要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": false
+      },
+      {
+        "text": "啡",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": "少甜",
+        "meta": "@DrinkSugar",
+        "alias": "DrinkSugar",
+        "userDefined": false
+      },
+      {
+        "text": "少冰",
+        "meta": "@DrinkIce",
+        "alias": "DrinkIce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "ad3a3ba7-384c-4179-8f72-418fdefc558b",
+    "data": [
+      {
+        "text": "我要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": true
+      },
+      {
+        "text": "啡",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": "走甜",
+        "meta": "@DrinkSugar",
+        "alias": "DrinkSugar",
+        "userDefined": true
+      },
+      {
+        "text": "少冰",
+        "meta": "@DrinkIce",
+        "alias": "DrinkIce",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "81609898-47c9-42a3-b5b4-782663946020",
+    "data": [
+      {
+        "text": "我要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": false
+      },
+      {
+        "text": "啡",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      },
+      {
+        "text": "走甜",
+        "meta": "@DrinkSugar",
+        "alias": "DrinkSugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "957f2103-cc3d-485b-a366-f6a4cce695cc",
+    "data": [
+      {
+        "text": "要個",
+        "userDefined": false
+      },
+      {
+        "text": "芙蓉蛋飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": true
+      },
+      {
+        "text": "奶茶",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      },
+      {
+        "text": "少甜",
+        "meta": "@DrinkSugar",
+        "alias": "DrinkSugar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "e0f5192b-6737-4843-838c-3ccc6a20fbcd",
+    "data": [
+      {
+        "text": "要個",
+        "userDefined": false
+      },
+      {
+        "text": "芙蓉蛋飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": false
+      },
+      {
+        "text": "奶茶",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "9af79441-e8d9-409c-8a9f-6687521b1802",
+    "data": [
+      {
+        "text": "要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": true
+      },
+      {
+        "text": "，",
+        "userDefined": false
+      },
+      {
+        "text": "凍",
+        "meta": "@DrinkTemperature",
+        "alias": "DrinkTemperature",
+        "userDefined": true
+      },
+      {
+        "text": "啡",
+        "meta": "@Drink",
+        "alias": "Drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "55837aea-0790-48f7-9c6b-883a722dcb1d",
+    "data": [
+      {
+        "text": "要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "4f061741-e50a-4343-90ec-fd350e084a50",
+    "data": [
+      {
+        "text": "我要個",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  },
+  {
+    "id": "f3deb24d-18a6-4300-9c48-69e2c7057e96",
+    "data": [
+      {
+        "text": "我要",
+        "userDefined": false
+      },
+      {
+        "text": "黯然銷魂飯",
+        "meta": "@Dish",
+        "alias": "Dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "zh-hk",
+    "updated": 0
+  }
+]

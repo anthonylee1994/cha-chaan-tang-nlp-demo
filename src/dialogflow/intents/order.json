@@ -1,0 +1,128 @@
+{
+  "id": "876ab733-3df4-4871-8ada-d1e2507c3477",
+  "name": "order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6a736b25-ed2d-4132-85cf-775eb915965b",
+          "name": "Dish",
+          "required": true,
+          "dataType": "@Dish",
+          "value": "$Dish",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "zh-hk",
+              "value": "要乜嘢呀！"
+            },
+            {
+              "lang": "zh-hk",
+              "value": "食乜呀！"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fff08311-c138-41bc-ae09-65607ba64a71",
+          "name": "Drink",
+          "required": true,
+          "dataType": "@Drink",
+          "value": "$Drink",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "zh-hk",
+              "value": "飲乜呀"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "93b7cbd1-6e37-4f6f-ac06-babef1888002",
+          "name": "DrinkTemperature",
+          "required": true,
+          "dataType": "@DrinkTemperature",
+          "value": "$DrinkTemperature",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "zh-hk",
+              "value": "嘢飲熱定凍呀"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "685a2074-250c-4fdc-86e5-d7d340a9ccdc",
+          "name": "DrinkSugar",
+          "required": false,
+          "dataType": "@DrinkSugar",
+          "value": "$DrinkSugar",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3459ea80-688e-4a8b-98a9-9b631db07ecc",
+          "name": "DrinkIce",
+          "required": false,
+          "dataType": "@DrinkIce",
+          "value": "$DrinkIce",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e607593a-86e5-4ba8-990f-fcbd81247eec",
+          "name": "DishRiceSize",
+          "required": false,
+          "dataType": "@DishRiceSize",
+          "value": "$DishRiceSize",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
